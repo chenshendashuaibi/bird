@@ -1,2 +1,2 @@
 # bird
-你好
+all right
